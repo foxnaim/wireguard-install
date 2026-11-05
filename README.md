@@ -1,3 +1,8 @@
+> **foxnaim** · Скрипт установки VPN-сервера WireGuard на Linux
+>
+> Готовая основа под клиентский проект. Стек: Shell.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # WireGuard installer
 
 ![Lint](https://github.com/angristan/wireguard-install/workflows/Lint/badge.svg)
